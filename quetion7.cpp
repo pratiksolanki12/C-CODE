@@ -14,6 +14,7 @@ int main(){
     // reverse form ( 100,98,96...2)
 
     // for(int i=100; i>0; i--){
+    //
     //     if(i%2==0){
     //         cout<< i << endl;
     //     }
